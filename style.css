@@ -1,0 +1,225 @@
+html{
+    font-family: 'Merriweather', serif;
+}
+.Imagen{
+    width: 50vw;
+    margin-left: 25%;
+    }
+    .Botones{
+        display: flex;
+        justify-content: flex-start;
+        margin-left: 20%;
+        
+        height: 40px;
+        font-size: 30px;
+        font-weight: bold;
+    }
+    .btnnav1{
+        background-color: rgb(31, 31, 31);
+        color: white;
+        font-size: 13px;
+        font-weight: bold;
+        border-color: rgb(31, 31, 31);
+        font-family: 'Merriweather', serif;
+
+    }
+    .btnnav2{
+        background-color:  rgb(202, 202, 5);
+        border-color:  rgb(202, 202, 5);
+        font-size: 15px;
+        font-weight: bold;
+        font-family: 'Merriweather', serif;
+    }
+    .btnnav1 :hover{
+        background-color: rgb(165, 33, 33);
+        color: white;
+        font-size: 13px;
+        font-weight: bold;
+        border-color: rgb(31, 31, 31);
+
+    }
+    .Rosendo{
+        display: flex;
+       justify-content: flex-end;
+       margin-right: 20%;
+       color:  rgb(202, 202, 5);
+       height: 60px;
+       font-size: 60px;
+    }
+    
+    .imagensota{
+        background-color: rgb(32, 32, 66);
+        
+    }
+    
+    
+    .cajas{
+        display: flex;
+        flex-direction: rows;
+        justify-content: center;
+        
+    }
+    
+    .UNE{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        border-color: gray;
+        height: 80px;
+        width: 250px;
+        background-color: white;
+        z-index: 10;
+    
+    }
+    .titulo{
+        font-weight: bold;
+    }
+    .descripcion{
+        
+        color: gray;
+    }
+    .descripcion2{
+        
+        color: gray;
+    }
+    .info{
+        
+        color: rgb(165, 33, 33);
+        font-weight: bold;
+    }
+
+    .nav1{
+        background-color: rgb(31, 31, 31);
+        height: 40px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    .nav2{
+        background-color: rgb(202, 202, 5);
+        height: 60px;
+    }
+
+    .cajas2{
+        display: flex;
+        flex-direction: rows;
+        justify-content: center;
+    }
+    .personas{
+        background-image: url(https://64.media.tumblr.com/c48b7c2db07c2c276342c64e93ac47cd/0fed0d8e018fcab6-d8/s1280x1920/6edcf0eac44f8e3dce48fb82028effabe35f0eb5.jpg);
+        background-size: 100%;
+        height: 120px;
+        width: 170px;
+        margin-right: 30px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        color: white;
+        font-weight: bold;
+        font-size: 20px;
+        margin-top: 70px;
+    }
+    .titulo1{
+        
+    }
+    .color{
+        background-color: red;
+    }
+
+    .botones2{
+        margin-top: 100px;
+        display: flex;
+        justify-content: center;
+    }
+    .btnasies{
+        height: 90px;
+        width: 220px;
+        border-radius: 15px;
+        margin-right: 30px;
+        font-weight: bold;
+        color: white;
+        font-size: 15px;
+        font-family: 'Merriweather', serif;
+        display: flex;
+        justify-content: center;
+        padding-top: 15px;
+    }
+
+    #uno{
+        background-color:  rgb(126, 28, 28);
+    }
+    #dos{
+        background-color: rgb(58, 0, 85);
+    }
+    #calendar{
+        color:   rgb(126, 28, 28);
+    }
+
+    #calendar2{
+        background-color: rgb(175, 175, 175);
+        border-radius: 100%;
+        width: 50px;
+        height: 50px;
+        color: black;
+        font-size: 50px;
+    }
+    #loc{
+        color:   rgb(126, 28, 28);
+    }
+    .ros{
+        color: rgb(126, 28, 28);
+        font-size: 25px;
+        font-weight: bold;
+        margin-right: 170px;
+    }
+    .ros2{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .ultimasnoti{
+        margin-top: 100px;
+        display: flex;
+        justify-content: center;
+        background-color: rgba(216, 216, 216, 0.418);
+
+    }
+    .UNE2{
+        display: flex;
+        flex-direction: column;
+        width: 300px;
+    }
+    .noticias{
+        margin-top: 100px;
+        color: rgb(126, 28, 28);
+        margin-left: 25%;
+        font-weight: bold;
+        font-size: 30px;
+    }
+    .casifooter{
+        height: 200px;
+    }
+    #escuela{
+        background-color: rgb(175, 175, 175);
+        border-radius: 100%;
+        width: 50px;
+        height: 50px;
+        color: black;
+        font-size: 50px;
+    }
+    #servicio{
+        background-color: rgb(175, 175, 175);
+        border-radius: 100%;
+        width: 50px;
+        height: 50px;
+        color: black;
+        font-size: 50px;
+    }
+    #contacto{
+        background-color: rgb(175, 175, 175);
+        border-radius: 100%;
+        width: 50px;
+        height: 50px;
+        color: black;
+        font-size: 50px;
+    }
